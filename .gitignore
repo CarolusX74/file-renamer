@@ -1,0 +1,20 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de Eclipse
+/.classpath
+/.project
+
+# Archivos de configuración de IntelliJ IDEA
+/.idea/
+
+# Archivos generados de Maven o Gradle
+/target/
+/build/
+
+# Archivos del sistema operativo (Mac, Windows)
+.DS_Store
+Thumbs.db
